@@ -1,0 +1,27 @@
+body {
+    background-image: url(C:/Users/obide/Desktop/Resources/images/tables.image.jpg);
+}
+table {
+    border: 5px solid slategray;
+    margin: 1em auto;
+}
+
+thead {
+    font-family: Times New Roman;
+    color: black;
+    background-color: cornflowerblue
+}  
+
+.column1 {
+    background-color: cyan; 
+}
+.column2 {
+    background-color: violet
+
+}
+.column3 {
+    background-color: springgreen;
+}
+tr {
+    font-family: Times New Roman;
+}
